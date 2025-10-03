@@ -71,8 +71,6 @@ rag-chatbot-project/
     └── Company/
 ```
 
-> Place your documents inside the respective folders under `documents/`. The `Company` folder is for company-specific files.
-
 ---
 
 ## 🎯 How It Works
